@@ -10,6 +10,8 @@ import { FavPhotosComponent } from './components/fav-photos/fav-photos.component
 import { ChoresListComponent } from './components/chores-list/chores-list.component';
 import { MovieListComponent } from './components/movie-list/movie-list.component';
 
+// edeited 
+
 @NgModule({
   declarations: [
     AppComponent,
